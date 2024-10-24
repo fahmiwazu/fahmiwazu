@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cypress on Test Automation University
 - 💞️ I’m looking to collaborate on building automation testing in Web, API and Application.
 - 📫 How to reach me via email on fahmi.wiradika96@gmail.com 
-- 😄 Pronouns: Him
+- 😄 Pronouns: He
 - ⚡ Fun fact: I like Basketball and spicy food
 
 <!---
